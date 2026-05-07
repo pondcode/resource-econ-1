@@ -1,5 +1,3 @@
-# Calculator-Safe ECON Graph Format
-
 Use this format for graph questions.
 
 Important rule:
